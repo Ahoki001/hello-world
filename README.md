@@ -1,2 +1,3 @@
 # hello-world
-College student studying Business and Comp Sci
+College student
+Studying Busniess and Computer Science 
